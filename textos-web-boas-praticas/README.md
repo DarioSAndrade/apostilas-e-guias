@@ -1,10 +1,6 @@
 
 # Justificar Texto na Web: Boa ou Má Prática? (Versão Atualizada 2025)
 
-**Autor:** Dario S. Andrade  
-**Publicação original inspirada em:** [Thiago Nascimento, 2015](https://thiagonasc.com/desenvolvimento-web/justificar-texto-na-web-boa-ou-ma-pratica)  
-**Atualizado e expandido com base em padrões modernos de design, acessibilidade e usabilidade.**
-
 ---
 
 ## 📌 Introdução
@@ -225,7 +221,8 @@ Abra uma issue ou envie um pull request.
 - [Nielsen Norman Group - Legibility](https://www.nngroup.com/articles/legibility-readability-comprehension/)
 - [MDN - CSS text-align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
 - [Can I use - CSS Features](https://caniuse.com/)
-```
+
+**Autor:** Dario S. Andrade  
 
 ---
 
