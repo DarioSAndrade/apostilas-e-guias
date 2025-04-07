@@ -5,6 +5,12 @@
 
 Justificar ou não justificar o texto na web? Essa é uma dúvida que persiste há anos entre desenvolvedores, designers e redatores. A prática de alinhar textos por igual nas margens esquerda e direita, comum em livros impressos e jornais, ainda é tentadora para quem deseja um layout "limpo" e visualmente organizado.
 
+<img 
+    src="https://github.com/DarioSAndrade/apostilas-e-guias/blob/main/textos-web-boas-praticas/main/jornal.gif" 
+    alt="" 
+    height="100%"
+  />
+
 Mas... será que isso faz sentido no ambiente web em 2025?
 
 Este guia técnico e didático oferece **respostas definitivas, embasadas, atualizadas e orientadas por usabilidade, acessibilidade, performance e tecnologia**. Vamos explorar as razões para evitar a justificação e apresentar **alternativas práticas e modernas**.
