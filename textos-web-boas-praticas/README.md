@@ -1,5 +1,5 @@
 
-# Justificar Texto na Web: Boa ou Má Prática? (Versão Atualizada 2025)
+# Justificar Texto na Web: Boa ou Má Prática? 
 
 ---
 
@@ -64,7 +64,7 @@ A justificação tende a **quebrar o fluxo natural do conteúdo**, gerando **esp
 
 ---
 
-## ✅ Boas práticas atuais (2025)
+## ✅ Boas práticas atuais
 
 ### 1. **Alinhamento à esquerda (padrão)**
 A esquerda é o padrão de leitura ocidental. Com ele, temos:
