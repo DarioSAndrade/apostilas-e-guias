@@ -1,4 +1,4 @@
-```markdown
+
 # Justificar Texto na Web: Boa ou Má Prática? (Versão Atualizada 2025)
 
 **Autor:** Dario S. Andrade  
