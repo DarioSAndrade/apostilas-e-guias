@@ -23,7 +23,8 @@ p {
 
 O resultado é um bloco visualmente reto em ambos os lados. Mas isso tem consequências.
 <img 
-    src="https://github.com/DarioSAndrade/dariosandrade/apostilas-e-guias/main/texto.justificado.gif" 
+    src="https://github.com/DarioSAndrade/dariosandrade/apostilas-e-guias/textos-web-boas-praticas
+/main/text.justificado.gif" 
     alt="" 
     height="100%"
   />
