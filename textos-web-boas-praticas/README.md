@@ -221,7 +221,3 @@ Abra uma issue ou envie um pull request.
 - [Can I use - CSS Features](https://caniuse.com/)
 
 **Autor:** Dario S. Andrade  
-
----
-
-Se quiser, posso transformar esse conteúdo em `.zip` para facilitar o download — é só pedir. Deseja que eu crie uma capa com título e imagem também para destacar no GitHub?
