@@ -1,7 +1,3 @@
-Claro! Abaixo está o conteúdo completo do `README.md` com o artigo técnico e didático sobre **justificação de texto na web**, atualizado com as práticas modernas, ferramentas e exemplos. Ele está pronto para publicação no seu GitHub:
-
----
-
 ```markdown
 # Justificar Texto na Web: Boa ou Má Prática? (Versão Atualizada 2025)
 
@@ -206,7 +202,7 @@ p {
 
 ---
 
-## 📝 Conclusão
+## 📝 ATENÇÃO
 
 Justificar texto na web **não é uma boa prática**, especialmente quando consideramos **usuários reais, acessibilidade, responsividade e desempenho**.
 
